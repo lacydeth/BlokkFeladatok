@@ -1,0 +1,16 @@
+body {
+    background: lightgray;
+}
+p {
+    padding: 4mm;
+    border: 2px solid blue;
+    width: 60%;
+    margin: auto;
+}
+span {
+    padding: 5px;
+    margin: 10px;
+    background: orange;
+    border-radius: 10px;
+    float: left;
+}
